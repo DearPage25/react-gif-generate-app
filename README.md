@@ -1,3 +1,7 @@
+# A Little Description:
+A simple React-app to generate images .gif with the api [Giphy Developers](https://developers.giphy.com/docs/api/endpoint).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
